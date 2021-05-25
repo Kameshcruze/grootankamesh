@@ -1,67 +1,67 @@
 {
   "user1": [
     {
-      "name": "Hari",
-      "age": 20,
-      "dob": "21-12-2020",
-      "firstName": "Hari",
-      "lastName": "Sudhan",
-      "address_line1": "Nehru street",
+      "name": "kamesh",
+      "age": 22,
+      "dob": "11-1-2000",
+      "firstName": "kamesh",
+      "lastName": "R",
+      "address_line1": "anna street",
       "address_line2": "Street",
       "address_line3": "Chennai",
-      "phone": "7482929848"
+      "phone": "7856472154"
     }
   ],
   "user2": [
     {
-      "name": "Mayur",
-      "age": 12,
-      "dob": "20-10-2020",
-      "firstName": "Mayur",
-      "lastName": "Sudhan",
-      "address_line1": "Gandhinagar",
-      "address_line2": "First road",
-      "address_line3": "Madras",
-      "phone": "9087819233"
+      "name": "ram",
+      "age": 18,
+      "dob": "2-1-2010",
+      "firstName": "ram",
+      "lastName": "K",
+      "address_line1": "Gandhipuram",
+      "address_line2": "First cross",
+      "address_line3": "chennai",
+      "phone": "7854125478"
     }
   ],
   "user3": [
     {
-      "name": "Mahesh",
-      "age": 70,
-      "dob": "20-10-2020",
-      "firstName": "Mahesh",
-      "lastName": "Waran",
-      "address_line1": "Subash chandra street",
+      "name": "mohan",
+      "age": 56,
+      "dob": "20-11-2000",
+      "firstName": "Mohan",
+      "lastName": "K",
+      "address_line1": "chandra street",
       "address_line2": "Second road",
-      "address_line3": "Vadachennai",
-      "phone": "9488192333"
+      "address_line3": "chennai",
+      "phone": "7448598733"
     }
   ],
   "user4": [
     {
-      "name": "Praveen",
-      "age": 45,
-      "dob": "20-10-2020",
-      "firstName": "Praveen",
+      "name": "vishnu",
+      "age": 21,
+      "dob": "20-10-2000",
+      "firstName": "vishnu",
       "lastName": "Sharma",
-      "address_line1": "Valimai nagar",
-      "address_line2": "Boney road",
+      "address_line1": "anna nagar",
+      "address_line2": "Bessy road",
       "address_line3": "South madras",
-      "phone": "6784954738"
+      "phone": "6874521458"
     }
   ],
   "user5": [
     {
-      "name": "Pranav",
-      "age": 25,
-      "dob": "20-10-2020",
-      "firstName": "Pranav",
+      "name": "Jana",
+      "age": 21,
+      "dob": "20-10-2000",
+      "firstName": "Jana",
       "lastName": "Kumar",
-      "address_line1": "Dharavi",
+      "address_line1": "jana",
       "address_line2": "Kaala street",
-      "address_line3": "Mumbai",
-      "phone": "984637462"
+      "address_line3": "trichy",
+      "phone": "7896541478"
     }
   ]
 }
